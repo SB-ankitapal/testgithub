@@ -1,0 +1,38 @@
+{
+  "collapseTableOfContents": false,
+  "items": [
+    {
+      "type": "item",
+      "title": "TestArticle",
+      "uri": "/docs/TestArticle.md"
+    },
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "test3.1Yaml",
+      "uri": "/reference/test3.1Yaml.yaml"
+    },
+    {
+      "type": "item",
+      "title": "Test3.0J",
+      "uri": "/reference/Test3.0J.json"
+    },
+    {
+      "type": "divider",
+      "title": "Schemas"
+    },
+    {
+      "type": "item",
+      "title": "testmodel1",
+      "uri": "/models/testmodel1.yaml"
+    },
+    {
+      "type": "item",
+      "title": "Testmodel2",
+      "uri": "/models/Testmodel2.json"
+    }
+  ]
+}

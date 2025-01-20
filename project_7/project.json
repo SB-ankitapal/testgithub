@@ -1,0 +1,45 @@
+{
+  "autoInviteCommitters": false,
+  "ciToken": "8b6bc023-9fd8-48ec-8cc9-391e60ac430d",
+  "createdAt": "2025-01-13T11:45:51.463178+00:00",
+  "creatorId": 1,
+  "deployUserId": 1,
+  "description": null,
+  "externalId": null,
+  "externalOrgSlug": null,
+  "externalSlug": null,
+  "externalStarCount": null,
+  "flavor": "design",
+  "groupId": null,
+  "groupRole": null,
+  "iconColor": "#3742fa",
+  "iconName": "globe-americas",
+  "id": 7,
+  "isDefaultStyleGuide": false,
+  "isDesignLibrary": false,
+  "migrated_from_classic_project_id": null,
+  "migrated_from_next_project_id": null,
+  "name": "NormalAPITest",
+  "pinned": false,
+  "remoteUrlHttp": null,
+  "remoteUrlSsh": null,
+  "slug": "normalapitest",
+  "type": "web",
+  "updatedAt": "2025-01-13T11:45:51.463178+00:00",
+  "useLegacyExporter": false,
+  "visibility": "internal",
+  "workspaceId": 1,
+  "workspaceIntegrationId": null,
+  "branches": [
+    {
+      "is_default": true,
+      "is_published": true,
+      "branch": "/branch_24/branch.json"
+    },
+    {
+      "is_default": false,
+      "is_published": false,
+      "branch": "/branch_29/branch.json"
+    }
+  ]
+}

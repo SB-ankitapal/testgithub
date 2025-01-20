@@ -1,0 +1,51 @@
+{
+  "id": 1,
+  "name": "meta",
+  "slug": "meta",
+  "description": null,
+  "logoUrl": null,
+  "creatorId": 1,
+  "createdAt": "2025-01-10T07:13:38.629395+00:00",
+  "updatedAt": "2025-01-10T12:34:49.272278+00:00",
+  "homeContent": null,
+  "domain": null,
+  "billing_account_id": 1,
+  "theme": null,
+  "hidePoweredBy": false,
+  "isTrial": false,
+  "hideSignIn": false,
+  "googleTagManager": null,
+  "migratedFromClassic": false,
+  "migratedFromNext": false,
+  "useNewElements": true,
+  "redirects": null,
+  "localizejs": null,
+  "faviconUrl": null,
+  "trial_start_at": null,
+  "trial_end_at": null,
+  "trials_used": 0,
+  "trials_remaining": 2,
+  "delete_at": null,
+  "teamsEnabled": true,
+  "disableDefaultStyleguideEditing": false,
+  "joinRequestsDisabled": false,
+  "guestsReceiveDailyDigest": true,
+  "showTryit": true,
+  "showTryitMockServer": true,
+  "allowSearchIndexing": true,
+  "disableCookieTracking": false,
+  "lockAt": null,
+  "useAutomaticSsgConversion": true,
+  "refreshTokenLifetimeSeconds": null,
+  "cloudflare_custom_id": null,
+  "lockReason": null,
+  "showUserway": true,
+  "projects": [
+    {
+      "project": "/project_7/project.json"
+    },
+    {
+      "project": "/project_6/project.json"
+    }
+  ]
+}

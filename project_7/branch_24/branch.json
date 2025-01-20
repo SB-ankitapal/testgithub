@@ -1,0 +1,56 @@
+{
+  "id": 24,
+  "isDefault": true,
+  "isPublished": true,
+  "name": null,
+  "nodeCount": 26,
+  "projectId": 7,
+  "articleCount": 1,
+  "author_id": null,
+  "baselineBranchId": null,
+  "commitHash": "bd21ef17fcaab",
+  "createdAt": "2025-01-13T11:45:51.463178+00:00",
+  "has_breaking_changes_vs_baseline": false,
+  "has_changes_vs_baseline": false,
+  "httpOperationCount": 13,
+  "httpServiceCount": 3,
+  "lastAnalyzedAt": "2025-01-13T12:58:11.282143+00:00",
+  "modelCount": 5,
+  "slug": "main",
+  "shareEnabled": false,
+  "shareToken": null,
+  "start_commit_sha": null,
+  "tableOfContentsCount": 1,
+  "updatedAt": "2025-01-13T12:58:11.282143+00:00",
+  "images": [
+    {
+      "name": "/assets/images/Screenshot 2025-01-13 at 1.00.32 PM.png",
+      "uri": "https://stoplight-local.com:8443/api/v1/images/cc03f45885e98ec7a9fe5bb2b8104eb16f27254b"
+    },
+    {
+      "name": "/assets/images/Screenshot 2025-01-13 at 2.42.36 PM.png",
+      "uri": "https://stoplight-local.com:8443/api/v1/images/12b2aaeacb32eeca8ae81b171f07f1892566414b"
+    },
+    {
+      "name": "/assets/images/image (1).png",
+      "uri": "https://stoplight-local.com:8443/api/v1/images/b6977c956806c1f0512025d1ddad7c4833db61d8"
+    }
+  ],
+  "markdowns": [
+    {
+      "markdown": "/markdowns/docs/TestArticleTest.md"
+    }
+  ],
+  "openAPIs": [
+    {
+      "openAPI": "/openAPIs/reference/Test2.0J.json"
+    },
+    {
+      "openAPI": "/openAPIs/reference/TestAPI3.0.json"
+    },
+    {
+      "openAPI": "/openAPIs/reference/TestOpenAPI.yaml"
+    }
+  ],
+  "toc": "/toc.json"
+}

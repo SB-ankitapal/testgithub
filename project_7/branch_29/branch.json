@@ -1,0 +1,63 @@
+{
+  "id": 29,
+  "isDefault": false,
+  "isPublished": false,
+  "name": null,
+  "nodeCount": 32,
+  "projectId": 7,
+  "articleCount": 1,
+  "author_id": 1,
+  "baselineBranchId": null,
+  "commitHash": "ba43ce5977a4f",
+  "createdAt": "2025-01-13T13:44:43.050804+00:00",
+  "has_breaking_changes_vs_baseline": false,
+  "has_changes_vs_baseline": false,
+  "httpOperationCount": 16,
+  "httpServiceCount": 4,
+  "lastAnalyzedAt": "2025-01-13T13:45:39.345066+00:00",
+  "modelCount": 6,
+  "slug": "branchsecond",
+  "shareEnabled": false,
+  "shareToken": null,
+  "start_commit_sha": null,
+  "tableOfContentsCount": 1,
+  "updatedAt": "2025-01-13T13:45:39.345066+00:00",
+  "images": [
+    {
+      "name": "/assets/images/Screenshot 2025-01-13 at 1.00.32 PM.png",
+      "uri": "https://stoplight-local.com:8443/api/v1/images/cc03f45885e98ec7a9fe5bb2b8104eb16f27254b"
+    },
+    {
+      "name": "/assets/images/Screenshot 2025-01-13 at 2.42.36 PM.png",
+      "uri": "https://stoplight-local.com:8443/api/v1/images/12b2aaeacb32eeca8ae81b171f07f1892566414b"
+    },
+    {
+      "name": "/assets/images/Screenshot 2025-01-13 at 6.47.11 PM.png",
+      "uri": "https://stoplight-local.com:8443/api/v1/images/a4a2b5db6debb00393b80d9bbe63bd0fc485ab8b"
+    },
+    {
+      "name": "/assets/images/image (1).png",
+      "uri": "https://stoplight-local.com:8443/api/v1/images/b6977c956806c1f0512025d1ddad7c4833db61d8"
+    }
+  ],
+  "markdowns": [
+    {
+      "markdown": "/markdowns/docs/TestArticleTest.md"
+    }
+  ],
+  "openAPIs": [
+    {
+      "openAPI": "/openAPIs/reference/Test2.0J.json"
+    },
+    {
+      "openAPI": "/openAPIs/reference/TestOpenAPI.yaml"
+    },
+    {
+      "openAPI": "/openAPIs/reference/OnBranch2.yaml"
+    },
+    {
+      "openAPI": "/openAPIs/reference/TestAPI3.0.json"
+    }
+  ],
+  "toc": "/toc.json"
+}
