@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: test3.1Yaml
   version: '1.0'
+  description: Testing 3.1 yaml
 servers:
   - url: 'http://localhost:3000'
 paths:
